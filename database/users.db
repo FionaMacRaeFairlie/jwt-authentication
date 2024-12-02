@@ -1,3 +1,4 @@
 {"user":"Ann","password":"$2b$10$KkzbR6yZqOeNZJSud9JNiOTdKTPrdMkLBE.a/9S8aSENZwKnupaMK","role":"normalUser","_id":"d0Adu5iGKFB9eO1V"}
-{"user":"Peter","password":"$2b$10$CCV0VP8Zv5o9LGi9eeg7me7b3azL5rHptaOsKtxy8X//UG3f6u40i","role":"normalUser","_id":"rhjph1v1LNBLEB0G"}
 {"user":"admin","password":"$2b$10$R5wrIV8txYSQUGkPfyNO5eSDjoD6use/qsl83fnr9d1D2uncQonKS","role":"admin","_id":"ebT8HRsMSiY39oY9"}
+{"user":"Peter","password":"$2b$10$CCV0VP8Zv5o9LGi9eeg7me7b3azL5rHptaOsKtxy8X//UG3f6u40i","role":"normalUser","_id":"rhjph1v1LNBLEB0G"}
+{"user":"Ellie","password":"$2b$10$pcvpyJVf8yzfmuCax.KYw.eP5NHD62eovlR2EkZQ/M0dr5ruqGwq.","role":"normalUser","_id":"s3kteE2qTiDMzdOe"}

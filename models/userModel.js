@@ -1,4 +1,4 @@
-const Datastore = require("nedb");
+const Datastore = require("gray-nedb");
 const bcrypt = require("bcrypt");
 const saltRounds = 10;
 
